@@ -7,6 +7,7 @@ follow along with my notes rather than use a slide deck.
 
 * Git
 
+
 1. Among the most powerful.
 2. The most commonly used version control system in the world.
 3. The most important tool you can learn in this class.
@@ -19,6 +20,9 @@ repository.
 
 Never name files or functions "v1" "v2" "v3" etc. Just let git manage
 history and versions for you.
+
+It makes life easier to let git manage your versions - your source
+code is easier to understand this way.
 
 * Git Concepts
 
